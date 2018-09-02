@@ -7,16 +7,18 @@ This data set contains 2011 baseball play by play information. The goal for this
 In comparison to the baseline model of simply predicting the most common pitch (fastball) the resulting model improved on both accuracy and f1-score. 
 
 --------- Baseline Model
+
 Accuracy =  0.451442339870156
 
-             precision    recall  f1-score 
+  precision    recall  f1-score 
 
 avg / total       0.20      0.45      0.28     
 
 ---------- Random Forest
+
 Accuracy =  0.5713302325581395
 
-             precision    recall  f1-score   
+  precision    recall  f1-score   
 
 avg / total       0.53      0.57      0.49    
 
