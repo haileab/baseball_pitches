@@ -3,9 +3,9 @@
 ## Summary
 This data set contains 2011 baseball play by play information. The goal for this project is to build a model that can predict the next pitch. As there are a variety of pitches that a pitcher can throw this will be a multi-class classification model. There is also a big class imbalance between pitches. The most common pitch thrown is a fastball(44%).
 
-![Pitch Distribution](link)
+![Pitch Distribution](https://github.com/haileab/baseball_pitches/tree/master/images/pitch_types.png)
 
-![Pitch countour graph](link)
+![Pitch countour graph](https://github.com/haileab/baseball_pitches/blob/master/images/contour_of_pitches.png)
 Contour graph of different pitches. That's pretty nice!
 
 # Feature Engineering
@@ -26,7 +26,7 @@ avg/total       0.20      0.45      0.28
 Accuracy =  0.5713302325581395
 
             precision    recall  f1-score   
-avg/total       0.53      0.57      0.49    
+avg/total       0.53    0.57        0.49    
 
 ## Future Work
 
